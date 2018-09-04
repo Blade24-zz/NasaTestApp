@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nasa Test App</string>
+    <string name="image_descr">Rover image</string>
+</resources>
